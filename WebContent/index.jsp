@@ -7,6 +7,6 @@
 <title>/index.jsp</title>
 </head>
 <body>
-	<h1>인덱스 페이지 입니다.</h1>
+	<h1>인덱스 페이지 입니다1.</h1>
 </body>
 </html>
